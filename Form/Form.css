@@ -1,0 +1,15 @@
+.formik-form {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    padding: 20px;
+    background: yellowgreen;
+}
+
+.formik-fields {
+    margin: 10px auto;
+    text-align: center;
+}
